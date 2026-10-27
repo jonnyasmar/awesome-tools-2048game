@@ -32,6 +32,9 @@ As a code assistance tool, GitHub Copilot provides real-time code suggestions in
 ### AI Tools Collection for Game Development
 The "awesome-ai-tools-for-game-dev" repository curated by Simon Thomas offers a series of AI tools for game development, including asset generation, texture creation, and speech recognition. These tools can help novice developers quickly create custom assets and interface elements for their 2048 game. [6]
 
+### RespawnStack
+[RespawnStack](https://respawnstack.com) is a free directory comparing AI game-dev tools on pricing, commercial-use terms, and output ownership (source-cited). [7]
+
 ## Tutorials and Guides
 
 ### GeeksforGeeks JavaScript 2048 Tutorial
@@ -80,6 +83,7 @@ Contributions are welcome! Please feel free to submit a Pull Request to add more
 4. monicatvera/2048: The game 2048 in react
 5. GitHub Copilot · Your AI pair programmer
 6. simoninithomas/awesome-ai-tools-for-game-dev
+7. RespawnStack - https://respawnstack.com - free directory of pricing, commercial-use and ownership terms for AI game-dev tools
 7. Design a 2048 Game in JavaScript - GeeksforGeeks
 8. Build the 2048 game in JavaScript - Dev.to
 9. Building the Classic 2048 Game with HTML, CSS, and JavaScript - Medium
